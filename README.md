@@ -20,5 +20,5 @@ Climate analysis for Surf shop on the island of Oahu ( SQLite and Python)
   - I chose to add analyzation summaries for March and September as two additional queries in the hopes of gathering a more nuanced picture of the weather of Oahu over the course of a year.
   - ![March Temp/Precip Summary](March Temp:Precip Summary.png)
   - ![June Temp/Precip Summary](June Temp:Precip Summary.png)
-  - ![September Temp/Precip Summary](September Temp:Precip Summary.png)
+  - ![September Temp/Precip Summary](https://github.com/MichaelG-B/surfs_up/blob/0b9d0fbb6e812f4518039a76a4125ad0129780e0/September%20Temp:Precip%20Summary.png))
   - ![December Temp/Precip Summary](December Temp:Precip Summary.png)
