@@ -2,7 +2,7 @@
 Climate analysis for Surf shop on the island of Oahu ( SQLite and Python) 
 
 ### Overview
-  - Entreprenuers when beginning a new investment venture often take into account many of the market variables that could influence the success of the venture. For this project an investor wants to determine whether a new venture, Surf'n'Shake, on the Island of Oahu would be feasible based on weather conditions, notably precipitation. 
+  - Entreprenuers when beginning a new investment venture often take into account many of the market variables that could influence the success of the venture. For this project an investor wants to determine whether a new venture, Surf'n'Shake, on the Island of Oahu would be feasible based on weather conditions, notably precipitation and temperature. 
 
 ## Resources
   - Python: Numpy, Pandas; MatPlotlib; SQLite: SQLalchemy; Jupyter Notebook, VS Code; Flask applications; Statistical Analysis
